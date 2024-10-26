@@ -14,10 +14,6 @@ This project is a React application that displays a collection of reusable card 
 - **Smooth Transition**: Uses CSS transitions for a smooth change between gradients, enhancing the visual appeal.
 - **Responsive Layout**: The cards are arranged in a responsive layout, ensuring they look good on various screen sizes.
 
-## Demo
-
-![Project Screenshot](screenshot.png)
-
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
